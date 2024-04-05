@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1712340760283" clover="3.2.0">
+  <project timestamp="1712340760283" name="All files">
+    <metrics statements="42" coveredstatements="42" conditionals="18" coveredconditionals="18" methods="7" coveredmethods="7" elements="67" coveredelements="67" complexity="0" loc="42" ncloc="42" packages="1" files="1" classes="1"/>
+    <file name="BusinessCalculateComission.js" path="D:\Assiginment\Group Project\Code\BusinessCalculateComission.js">
+      <metrics statements="42" coveredstatements="42" conditionals="18" coveredconditionals="18" methods="7" coveredmethods="7"/>
+      <line num="5" count="16" type="stmt"/>
+      <line num="6" count="16" type="stmt"/>
+      <line num="7" count="16" type="stmt"/>
+      <line num="10" count="16" type="stmt"/>
+      <line num="11" count="16" type="stmt"/>
+      <line num="12" count="16" type="stmt"/>
+      <line num="15" count="16" type="stmt"/>
+      <line num="20" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="31" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="4" type="stmt"/>
+      <line num="41" count="10" type="stmt"/>
+      <line num="47" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="52" count="8" type="stmt"/>
+      <line num="56" count="10" type="stmt"/>
+      <line num="59" count="10" type="stmt"/>
+      <line num="61" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="65" count="10" type="stmt"/>
+      <line num="69" count="44" type="cond" truecount="2" falsecount="0"/>
+      <line num="73" count="2" type="stmt"/>
+      <line num="74" count="2" type="stmt"/>
+      <line num="75" count="2" type="stmt"/>
+      <line num="79" count="2" type="stmt"/>
+      <line num="80" count="2" type="stmt"/>
+      <line num="81" count="2" type="stmt"/>
+      <line num="85" count="2" type="stmt"/>
+      <line num="86" count="2" type="stmt"/>
+      <line num="87" count="2" type="stmt"/>
+      <line num="91" count="19" type="stmt"/>
+      <line num="92" count="19" type="stmt"/>
+      <line num="93" count="19" type="stmt"/>
+      <line num="94" count="19" type="stmt"/>
+      <line num="95" count="19" type="stmt"/>
+      <line num="96" count="19" type="stmt"/>
+      <line num="97" count="19" type="stmt"/>
+      <line num="98" count="19" type="stmt"/>
+      <line num="99" count="19" type="stmt"/>
+      <line num="103" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
